@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Pranav Bhave 
-- 👀 I’m interested in the research fields on CS such as AI,ML,VR and have gained a interest in game development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects and courses which 
-- 📫 How to reach me IG-@pranavbhave0206; email - pranavbhave06@gmail.com
