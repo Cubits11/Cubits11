@@ -18,6 +18,13 @@ shown.
   assuming independence. Worked example:
   [When Marginals Are Not Enough](https://cubits11.github.io/essays/when-marginals-are-not-enough/).
 
+- **[Ghost Visualizer](https://github.com/Cubits11/ghost-visualizer)** — TypeScript,
+  React. An interactive page for that same example: two filters that each miss
+  10% of harmful inputs can miss the same inputs or different ones, so the rate
+  at which both miss is only pinned to somewhere between 0% and 10%. The data in
+  it is constructed for teaching, not measured.
+  [Live demo](https://cubits11.github.io/ghost-visualizer/).
+
 - **[Ghost-Ark](https://github.com/PSUCyberSecurityLab/ghost-ark)** — TypeScript,
   AWS CDK. At Penn State's S2 Lab. A verifier that tests how far a signed audit
   receipt actually identifies the execution it claims to describe, and where
