@@ -15,7 +15,15 @@ shown.
   The real rate lies somewhere in [0%, 10%], depending on how far the two
   failure sets overlap, and measuring each filter alone never tells you which.
   CC-Framework reports the range the measurements actually support instead of
-  assuming independence. Worked example:
+  assuming independence. A historical census snapshot (frozen 2026-08-27)
+  covers a bounded inventory of 20 public guardrail evaluations: 5 preserve a
+  joint-evidence artifact and 0 document matched operating thresholds with full
+  exposure. All rows were classified by one reviewer; these counts are not a
+  prevalence estimate.
+  [Census](https://cubits11.github.io/missing-column/) ·
+  [rows](https://github.com/Cubits11/cubits11.github.io/blob/9f617d14a1349709e47f24f758ccd824cc3314f7/census.yaml) ·
+  [recount script](https://github.com/Cubits11/cubits11.github.io/blob/9f617d14a1349709e47f24f758ccd824cc3314f7/scripts/verify_census.py).
+  Worked example:
   [When Marginals Are Not Enough](https://cubits11.github.io/essays/when-marginals-are-not-enough/).
 
 - **[Ghost Visualizer](https://github.com/Cubits11/ghost-visualizer)** — TypeScript,
@@ -32,6 +40,8 @@ shown.
 
 - **Assay** — private, early. What a verifier can and cannot conclude from AWS
   Nitro Enclave attestation.
+
+Stack: Python · TypeScript · AWS CDK · React
 
 Penn State CS '26, Cybersecurity minor · AWS Certified Cloud Practitioner and
 AI Practitioner · Philadelphia, PA.
